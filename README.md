@@ -26,7 +26,7 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ] What is React JS and what problems does it try and solve? Support your answer with concepts introduced in class and from your personal research on the web.
 
-React is a javascript framework that
+React is a javascript framework that seeks to
 
 - [ ] What does it mean to _think_ in react?
 
