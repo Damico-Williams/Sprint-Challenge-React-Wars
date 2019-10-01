@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 import './App.css';
 import {Container, Row} from 'reactstrap';
-import StarInfo from './components/Cardwars.js';
+import StarInfo from './components/StarInfo.js';
 
 const App = () => {
   // Try to think through what state you'll need for this app before starting. Then build out
