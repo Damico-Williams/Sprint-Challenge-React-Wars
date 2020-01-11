@@ -26,23 +26,23 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ] What is React JS and what problems does it try and solve? Support your answer with concepts introduced in class and from your personal research on the web.
 
-React is a javascript framework that builds user interfaces. It was built by facebook to deal with complex states. React is good at rendering and updating only what changes.
+---React is a javascript framework that builds user interfaces. It was built by facebook to deal with complex states. React is good at rendering and updating only what changes.
 
 - [ ] What does it mean to _think_ in react?
 
-To think about the bigger picture as you create apps to make the code reuseable.
+---To think about the bigger picture as you create apps to make the code reuseable.
 
 - [ ] Describe state.
 
-State is the value you set of your component using the hook usestate. Taking a second parameter you can change the state the you set.
+---State is the value you set of your component using the hook usestate. Taking a second parameter you can change the state the you set.
 
 - [ ] Describe props.
 
-A prop is data read from one component to another. They are similar to javascript functions that take parameters.
+---A prop is data read from one component to another. They are similar to javascript functions that take parameters.
 
 - [ ] What are side effects, and how do you sync effects in a React component to state or prop changes?
 
-side effects effect something outside of the function that is executed. We can control sync effects using the useEffect hook.
+---Side effects effect something outside of the function that is executed. We can control sync effects using the useEffect hook.
 
 ## Project Set Up
 
